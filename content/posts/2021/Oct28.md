@@ -26,3 +26,5 @@ editPost:
  - Two Github Repos (public and source)
  - Public submodule inside source repo
 ### Method
+- Import theme
+- config.yml
