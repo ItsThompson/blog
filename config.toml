@@ -1,4 +1,0 @@
-baseURL = 'http://itsthompson.github.io/'
-languageCode = 'en-us'
-title = "Thompson's Blog"
-theme = "hugo-PaperMod"

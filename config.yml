@@ -1,0 +1,38 @@
+baseURL: "http://itsthompson.github.io/"
+languageCode: en-us
+title: Thompson's Blog
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+    env: production
+    title: Thompson's Blog
+    description: "A personal blog exploring the field of mainly Computer Science 
+    but also Mathematics, Physics, and Economics."
+    keywords: [Computer Science, Mathematics, Economics, ThompsonT]
+    authors: Thompson
+    defaultTheme: auto
+
+    ShowReadingTime: true
+    ShowPostNavLinks: true
+    ShowCodeCopyButtons: true
+    disableScrollToTop: false
+
+    
+    homeInfoParams:
+        Title: Thompson's Blog
+        Content: "A personal blog exploring the field of mainly Computer Science 
+    but also Mathematics, Physics, and Economics."
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/ItsThompson/"
+    
+    editPost:
+        URL: "https://github.com/ItsThompson/blog/blob/main/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
