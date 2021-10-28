@@ -8,6 +8,23 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
+menu:
+    main:
+        - name: Archive
+          url: archive/
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 5
+        - name: Categories
+          url: categories/
+          weight: 5
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
 params:
     env: production
     title: Thompson's Blog
@@ -36,3 +53,9 @@ params:
         URL: "https://github.com/ItsThompson/blog/blob/main/content"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
