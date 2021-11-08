@@ -1,6 +1,6 @@
 ---
 title: "Case Study: Sweden, Solar Panels"
-date: 2021-10-28T09:21:01+08:00
+date: 2021-11-08T20:18:08+08:00
 showToc: true
 description: "Economics homework discussing subsidies"
 draft: false
