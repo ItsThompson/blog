@@ -2,7 +2,7 @@
 title: "How I Set Up My Blog with Hugo"
 date: 2021-10-28T09:21:01+08:00
 showToc: true
-description: "Desc"
+description: "Discussing the why and how of creating a blog with Hugo"
 draft: false
 tags: ["Hugo", "PaperMod"]
 categories: Computer Science
