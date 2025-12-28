@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://blog.t-industri.es/posts/</loc>
     <lastmod>2024-09-10T16:28:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2-addiction-and-competitive-games/</loc>
+    <loc>https://blog.t-industri.es/posts/2-addiction-and-competitive-games/</loc>
     <lastmod>2024-09-10T16:28:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://blog.t-industri.es/</loc>
     <lastmod>2024-09-10T16:28:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/1-upbringing-and-mindset/</loc>
+    <loc>https://blog.t-industri.es/posts/1-upbringing-and-mindset/</loc>
     <lastmod>2024-09-09T13:49:28+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://blog.t-industri.es/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://blog.t-industri.es/tags/</loc>
   </url>
 </urlset>

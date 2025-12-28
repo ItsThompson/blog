@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Thompson&#39;s Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://blog.t-industri.es/posts/</link>
     <description>Recent content in Posts on Thompson&#39;s Blog</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Sep 2024 16:28:23 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.t-industri.es/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Addictiveness of Competitive Games</title>
-      <link>http://localhost:1313/posts/2-addiction-and-competitive-games/</link>
+      <link>https://blog.t-industri.es/posts/2-addiction-and-competitive-games/</link>
       <pubDate>Tue, 10 Sep 2024 16:28:23 +0100</pubDate>
-      <guid>http://localhost:1313/posts/2-addiction-and-competitive-games/</guid>
+      <guid>https://blog.t-industri.es/posts/2-addiction-and-competitive-games/</guid>
       <description>&lt;h2 id=&#34;ranked-based-matchmaking&#34;&gt;Ranked Based Matchmaking&lt;/h2&gt;
 &lt;p&gt;Ranked based matchmaking is a system that matches players of similar skill levels together based on a player&amp;rsquo;s rank, defined by their performance in matches, ideally creating an competitive environment where players feel challenged but not overwhelmed. This system is used in many competitive games: Valorant, League of Legends, Overwatch, and Counter-Strike.&lt;/p&gt;
 &lt;p&gt;The objective of these ranking algorithms is to take all the data points from the game such as match outcome, round differencial, individual performance and create a score that represents the player&amp;rsquo;s skill level. Whilst these algorithms are usually kept secret to prevent exploitation, they are developed by multi-million dollar corporations which are incentivized to keep players hooked to the game. Therefore, they have a strong incentive to make sure that each game is optimized to have a 50-50 probability for win or lose, creating a sense of competitiveness and challenge for the player.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Upbringing and Mindset: Privileged and Underprivileged</title>
-      <link>http://localhost:1313/posts/1-upbringing-and-mindset/</link>
+      <link>https://blog.t-industri.es/posts/1-upbringing-and-mindset/</link>
       <pubDate>Mon, 09 Sep 2024 13:49:28 +0100</pubDate>
-      <guid>http://localhost:1313/posts/1-upbringing-and-mindset/</guid>
+      <guid>https://blog.t-industri.es/posts/1-upbringing-and-mindset/</guid>
       <description>&lt;h2 id=&#34;upbringing&#34;&gt;Upbringing&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Upbringing: the treatment and instruction received by a child from its parents throughout its childhood.&lt;/p&gt;
